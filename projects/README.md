@@ -11,3 +11,7 @@
 | SVoboDa | Alexander Sharshavin, Stanislav Efimov, Boris Mikheev, Varvara Furik, Ramazan Fazylov | [Comparison of S4, LRU, and benchmark models on Keyword spotting problem](./slides/SVoboDa.pdf) <br> [Source code](https://github.com/shallex/NLA_23_project) |
 | UFO | Sergey Kushneryuk, Petr Kushnir, Elfat Sabitov, Foma Shipilov, Petr Sychev | [MARS: Masked Automatic Ranks Selection in Tensor Decomposition](./slides/UFO.pdf) <br> Source code |
 | Monte Carlo Enjoyers | Maksim Kucheriavyi, Iana Kulichenko | [Correlated Monte Carlo in Finance](./slides/MonteCarloEnjoyers.pdf) <br> [Source code](https://github.com/yanochka11/Monte-Carlo) |
+| ViTyaQUA | Matvey Skripkin, Nikita Ligostaev, Nikolay Kalmykov, Nikita Vasilev | [Model Compression](./slides/ViTyaQUA.pdf) <br> [Source code](https://github.com/barracuda049/VityaQUA/) |
+| Hyperbolic Laplacian Spectral Clustering | Yaroslav Abramov, Sergey Egorov, Batyr Khabibullin, Artem Erkhov, Vladislav Dvornikov | [Hyperbolic Laplacian Spectral Clustering](./slides/HyperbolicLaplacianSpectralClustering.pdf) <br> [Source code](https://github.com/dvladick/spectral_clustering) |
+| 007 | Holdings Ogon, Mmesomachi Nwachukwu, Joshua Udobang, Okechukwu Okeke | [A block Cholesky-LU-based QR factorization for rectangular matrices](./slides/007.pdf) <br> [Source code](https://github.com/MathsMarshall/NLA-Project-2023.-Team-007/) |
+| Hyperboloid of Engineer Garin | Oleg Malchenko, Jingtao Xu, Iaroslav Gusev, Fedor Belolutskiy | [Hyperbolic Spectral Embeddings](./slides/HyperboloidofEngineerGarin.pdf) <br> Source code |
