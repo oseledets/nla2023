@@ -1,4 +1,4 @@
-# Project presentations
+# Projects presentations
 
 | Team name   | Students | Slides & code |
 | :-----------: | :-----------: | :-----------: |
